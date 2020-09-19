@@ -1,2 +1,2 @@
 # matrix
-Simple library of matrix operations
+Simple library of matrix operations.
